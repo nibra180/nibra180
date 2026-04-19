@@ -1,16 +1,16 @@
-## Hi there 👋
+# Full-Stack Developer
 
-<!--
-**nibra180/nibra180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ### Open-Source projects
+   - [Admin Toolbar](https://github.com/WariKoda/WakoPluginAdminToolbar)
+   - [drift](https://github.com/WariKoda/drift)
 
-Here are some ideas to get you started:
+   Full-stack developer with more than **7 years of experience** in **e-commerce**, **mobile
+ development**, and **modern web applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   My home turf is **Shopware 6**.
+
+   Currently working on **custom e-commerce solutions**, **cross-device apps with Flutter**, and
+ exploring **Go** via open-source projects like [**drift**](https://github.com/WariKoda/drift).
+
+   Together with [@bdgraue](https://github.com/bdgraue), we publish open-source software via
+ [@WariKoda](https://github.com/WariKoda).
