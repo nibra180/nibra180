@@ -13,7 +13,6 @@
 
 - Build custom **Shopware 6** plugins, themes, storefronts, and administration extensions
 - Connect e-commerce platforms with **ERP/PIM systems**, APIs, and business workflows
-- Develop modern frontends with **Vue.js, TypeScript, Twig, and SCSS**
 - Create cross-device applications with **Flutter, Supabase, and PostgreSQL**
 - Explore developer tooling and terminal interfaces with **Go**
 
