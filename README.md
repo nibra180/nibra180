@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Niklas Braun 👋</h1>
-
 <p align="center">
   Full-stack developer from Germany, focused on Shopware 6, e-commerce systems,<br>
   cross-device apps, and thoughtful open-source tooling.<br><br>
