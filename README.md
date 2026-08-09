@@ -23,9 +23,9 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | [Admin Toolbar](https://github.com/WariKoda/WakoPluginAdminToolbar) | Context-aware storefront toolbar for eligible Shopware administration users | PHP · Shopware 6 |
-| [drift](https://github.com/WariKoda/drift) | TUI for browsing, comparing, and syncing files over SFTP/SSH and FTP | Go |
-| [stargate](https://github.com/WariKoda/stargate) | TUI for browsing, filtering, and opening SSH connections | Go |
 | [Product Hover Image](https://github.com/WariKoda/WakoProductHoverImage) | Configurable hover images for Shopware storefront product boxes | PHP · Shopware 6 |
+| [Drift](https://github.com/WariKoda/drift) | TUI for browsing, comparing, and syncing files over SFTP/SSH and FTP | Go |
+| [Stargate](https://github.com/WariKoda/stargate) | TUI for browsing, filtering, and opening SSH connections | Go |
 
 These projects are developed together with [@bdgraue](https://github.com/bdgraue) under [@WariKoda](https://github.com/WariKoda) — open source built with care, clarity, and attention to detail.
 
