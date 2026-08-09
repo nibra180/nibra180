@@ -9,6 +9,12 @@
   <a href="https://github.com/WariKoda"><img alt="WariKoda" src="https://img.shields.io/badge/Open_Source-WariKoda-2563eb?style=flat-square&logo=github"></a>
 </p>
 
+## Featured project: CampAlong 🏕️
+
+**[CampAlong](https://campalong.de/)** is a multi-day trip and stage planner for bikepacking, hiking, and road trips. It turns GPX routes into trip-ready journeys with realistic stages, route-aware places, packing lists, and offline access — all in one clear, local-first app.
+
+**[Explore CampAlong →](https://campalong.de/)**
+
 ## What I do
 
 - Build custom **Shopware 6** plugins, themes, storefronts, and administration extensions
