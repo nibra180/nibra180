@@ -9,12 +9,6 @@
   <a href="https://github.com/WariKoda"><img alt="WariKoda" src="https://img.shields.io/badge/Open_Source-WariKoda-2563eb?style=flat-square&logo=github"></a>
 </p>
 
-## Featured project: CampAlong 🏕️
-
-**[CampAlong](https://campalong.de/)** is a multi-day trip and stage planner for bikepacking, hiking, and road trips. It turns GPX routes into trip-ready journeys with realistic stages, route-aware places, packing lists, and offline access — all in one clear, local-first app.
-
-**[Explore CampAlong →](https://campalong.de/)**
-
 ## What I do
 
 - Build custom **Shopware 6** plugins, themes, storefronts, and administration extensions
@@ -22,16 +16,17 @@
 - Create cross-device applications with **Flutter, Supabase, and PostgreSQL**
 - Explore developer tooling and terminal interfaces with **Go**
 
-## Selected open source
+## Selected projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| ⭐ **[CampAlong](https://campalong.de/)** | Multi-day trip and stage planner for bikepacking, hiking, and road trips | Flutter · Dart · PostGIS |
 | [Admin Toolbar](https://github.com/WariKoda/WakoPluginAdminToolbar) | Context-aware storefront toolbar for eligible Shopware administration users | PHP · Shopware 6 |
 | [Product Hover Image](https://github.com/WariKoda/WakoProductHoverImage) | Configurable hover images for Shopware storefront product boxes | PHP · Shopware 6 |
 | [Drift](https://github.com/WariKoda/drift) | TUI for browsing, comparing, and syncing files over SFTP/SSH and FTP | Go |
 | [Stargate](https://github.com/WariKoda/stargate) | TUI for browsing, filtering, and opening SSH connections | Go |
 
-These projects are developed together with [@bdgraue](https://github.com/bdgraue) under [@WariKoda](https://github.com/WariKoda) — open source built with care, clarity, and attention to detail.
+The open-source projects are developed together with [@bdgraue](https://github.com/bdgraue) under [@WariKoda](https://github.com/WariKoda) — open source built with care, clarity, and attention to detail.
 
 ## Toolbox
 
