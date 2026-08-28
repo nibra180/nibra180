@@ -28,6 +28,14 @@
 
 The open-source projects are developed together with [@bdgraue](https://github.com/bdgraue) under [@WariKoda](https://github.com/WariKoda) — open source built with care, clarity, and attention to detail.
 
+## Omarchy nature series
+
+Three dark [Omarchy](https://omarchy.org/) themes built from distinct natural palettes and a shared embroidered-patch visual language.
+
+| [![Sequoia desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-sequoia-theme/main/preview.png)](https://github.com/nibra180/omarchy-sequoia-theme) | [![Moraine desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-moraine-theme/main/preview.png)](https://github.com/nibra180/omarchy-moraine-theme) | [![Yellowstone desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-yellowstone-theme/main/preview.png)](https://github.com/nibra180/omarchy-yellowstone-theme) |
+| :---: | :---: | :---: |
+| **[Sequoia](https://github.com/nibra180/omarchy-sequoia-theme)**<br><sub>Forest shadow, sequoia bark, and meadow gold</sub> | **[Moraine](https://github.com/nibra180/omarchy-moraine-theme)**<br><sub>Alpine dusk, glacial cyan, and evening rose</sub> | **[Yellowstone](https://github.com/nibra180/omarchy-yellowstone-theme)**<br><sub>Volcanic brown, geothermal blue, and sulfur gold</sub> |
+
 ## Toolbox
 
 <p>
