@@ -14,6 +14,7 @@
 - Build custom **Shopware 6** plugins, themes, storefronts, and administration extensions
 - Connect e-commerce platforms with **ERP/PIM systems**, APIs, and business workflows
 - Create cross-device applications with **Flutter, Supabase, and PostgreSQL**
+- Design and build custom themes for **[Omarchy](https://omarchy.org/)**
 - Explore developer tooling and terminal interfaces with **Go**
 
 ## Selected projects
