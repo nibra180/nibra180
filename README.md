@@ -31,19 +31,19 @@ The open-source projects are developed together with [@bdgraue](https://github.c
 
 ## Omarchy themes
 
-### Nature series
+<!-- featured-theme:start -->
+### Featured theme
 
-Three dark [Omarchy](https://omarchy.org/) themes built from distinct natural palettes and a shared embroidered-patch visual language.
+[![Pripyat desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-pripyat-theme/main/preview.png)](https://github.com/nibra180/omarchy-pripyat-theme)
+
+**[Pripyat](https://github.com/nibra180/omarchy-pripyat-theme)**<br><sub>Soot-black green, concrete haze, oxidized steel, and radiation-yellow accents, inspired by HBO's *Chernobyl*.</sub>
+
+### More themes
 
 | [![Sequoia desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-sequoia-theme/main/preview.png)](https://github.com/nibra180/omarchy-sequoia-theme) | [![Highlands desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-highlands-theme/main/preview.png)](https://github.com/nibra180/omarchy-highlands-theme) | [![Yellowstone desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-yellowstone-theme/main/preview.png)](https://github.com/nibra180/omarchy-yellowstone-theme) |
 | :---: | :---: | :---: |
 | **[Sequoia](https://github.com/nibra180/omarchy-sequoia-theme)**<br><sub>Forest shadow, sequoia bark, and meadow gold</sub> | **[Highlands](https://github.com/nibra180/omarchy-highlands-theme)**<br><sub>Charcoal crags, Scots pine, and lichen light</sub> | **[Yellowstone](https://github.com/nibra180/omarchy-yellowstone-theme)**<br><sub>Volcanic brown, geothermal blue, and sulfur gold</sub> |
-
-### Pripyat
-
-[![Pripyat desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-pripyat-theme/main/preview.png)](https://github.com/nibra180/omarchy-pripyat-theme)
-
-Inspired by the visual atmosphere of the HBO miniseries *Chernobyl*, **[Pripyat](https://github.com/nibra180/omarchy-pripyat-theme)** pairs soot-black green surfaces, concrete haze, oxidized steel, and radiation-yellow accents with cleanup imagery.
+<!-- featured-theme:end -->
 
 ## Toolbox
 
