@@ -43,7 +43,7 @@ Three dark [Omarchy](https://omarchy.org/) themes built from distinct natural pa
 
 [![Pripyat desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-pripyat-theme/main/preview.png)](https://github.com/nibra180/omarchy-pripyat-theme)
 
-**[Pripyat](https://github.com/nibra180/omarchy-pripyat-theme)** pairs soot-black green surfaces, concrete haze, oxidized steel, and radiation-yellow accents with Chernobyl cleanup imagery.
+Inspired by the visual atmosphere of the HBO miniseries *Chernobyl*, **[Pripyat](https://github.com/nibra180/omarchy-pripyat-theme)** pairs soot-black green surfaces, concrete haze, oxidized steel, and radiation-yellow accents with cleanup imagery.
 
 ## Toolbox
 
