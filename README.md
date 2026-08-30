@@ -34,15 +34,15 @@ The open-source projects are developed together with [@bdgraue](https://github.c
 <!-- featured-theme:start -->
 ### Featured theme
 
-[![Pripyat desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-pripyat-theme/main/preview.png)](https://github.com/nibra180/omarchy-pripyat-theme)
+[![Sequoia desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-sequoia-theme/main/preview.png)](https://github.com/nibra180/omarchy-sequoia-theme)
 
-**[Pripyat](https://github.com/nibra180/omarchy-pripyat-theme)**<br><sub>Soot-black green, concrete haze, oxidized steel, and radiation-yellow accents, inspired by HBO's *Chernobyl*.</sub>
+**[Sequoia](https://github.com/nibra180/omarchy-sequoia-theme)**<br><sub>Forest shadow, sequoia bark, and meadow gold</sub>
 
 ### More themes
 
-| [![Sequoia desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-sequoia-theme/main/preview.png)](https://github.com/nibra180/omarchy-sequoia-theme) | [![Highlands desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-highlands-theme/main/preview.png)](https://github.com/nibra180/omarchy-highlands-theme) | [![Yellowstone desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-yellowstone-theme/main/preview.png)](https://github.com/nibra180/omarchy-yellowstone-theme) |
+| [![Pripyat desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-pripyat-theme/main/preview.png)](https://github.com/nibra180/omarchy-pripyat-theme) | [![Highlands desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-highlands-theme/main/preview.png)](https://github.com/nibra180/omarchy-highlands-theme) | [![Yellowstone desktop preview](https://raw.githubusercontent.com/nibra180/omarchy-yellowstone-theme/main/preview.png)](https://github.com/nibra180/omarchy-yellowstone-theme) |
 | :---: | :---: | :---: |
-| **[Sequoia](https://github.com/nibra180/omarchy-sequoia-theme)**<br><sub>Forest shadow, sequoia bark, and meadow gold</sub> | **[Highlands](https://github.com/nibra180/omarchy-highlands-theme)**<br><sub>Charcoal crags, Scots pine, and lichen light</sub> | **[Yellowstone](https://github.com/nibra180/omarchy-yellowstone-theme)**<br><sub>Volcanic brown, geothermal blue, and sulfur gold</sub> |
+| **[Pripyat](https://github.com/nibra180/omarchy-pripyat-theme)**<br><sub>Soot-black green, concrete haze, oxidized steel, and radiation-yellow accents, inspired by HBO's *Chernobyl*.</sub> | **[Highlands](https://github.com/nibra180/omarchy-highlands-theme)**<br><sub>Charcoal crags, Scots pine, and lichen light</sub> | **[Yellowstone](https://github.com/nibra180/omarchy-yellowstone-theme)**<br><sub>Volcanic brown, geothermal blue, and sulfur gold</sub> |
 <!-- featured-theme:end -->
 
 ## Toolbox
