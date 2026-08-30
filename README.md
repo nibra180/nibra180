@@ -1,5 +1,5 @@
 <p align="center">
-  full-stack dev<br><br>
+  full-stack dev<br>
 </p>
 
 <p align="center">
