@@ -11,7 +11,7 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| ⭐ **[CampAlong](https://campalong.de/)** | Multi-day trip and stage planner for bikepacking, hiking, and road trips | Flutter · Dart · PostGIS |
+| [CampAlong](https://campalong.de/) | Multi-day trip and stage planner for bikepacking, hiking, and road trips | Flutter · Dart · PostGIS |
 | [Admin Toolbar](https://github.com/WariKoda/WakoPluginAdminToolbar) | Context-aware storefront toolbar for eligible Shopware administration users | PHP · Shopware 6 |
 | [Product Hover Image](https://github.com/WariKoda/WakoProductHoverImage) | Configurable hover images for Shopware storefront product boxes | PHP · Shopware 6 |
 | [Drift](https://github.com/WariKoda/drift) | TUI for browsing, comparing, and syncing files over SFTP/SSH and FTP | Go |
