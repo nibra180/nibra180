@@ -1,20 +1,11 @@
 <p align="center">
   full-stack dev<br><br>
-  currently working at <a href="https://sharpness.de"><strong>Sharpness Solutions</strong></a>.
 </p>
 
 <p align="center">
   <a href="https://nibraun.de"><img alt="Website" src="https://img.shields.io/badge/Website-nibraun.de-111827?style=flat-square"></a>
   <a href="https://github.com/WariKoda"><img alt="WariKoda" src="https://img.shields.io/badge/Open_Source-WariKoda-2563eb?style=flat-square&logo=github"></a>
 </p>
-
-## What I do
-
-- Build custom **Shopware 6** plugins, themes, storefronts, and administration extensions
-- Connect e-commerce platforms with **ERP/PIM systems**, APIs, and business workflows
-- Create cross-device applications with **Flutter, Supabase, and PostgreSQL**
-- Design and build custom themes for **[Omarchy](https://omarchy.org/)**
-- Explore developer tooling and terminal interfaces with **Go**
 
 ## Selected projects
 
