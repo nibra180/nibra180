@@ -1,7 +1,6 @@
 <p align="center">
-  Full-stack developer from Germany, focused on Shopware 6, e-commerce systems,<br>
-  cross-device apps, and thoughtful open-source tooling.<br><br>
-  Currently working at <a href="https://sharpness.de"><strong>Sharpness Solutions</strong></a>.
+  full-stack dev<br><br>
+  currently working at <a href="https://sharpness.de"><strong>Sharpness Solutions</strong></a>.
 </p>
 
 <p align="center">
