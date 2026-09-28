@@ -13,6 +13,6 @@
 | --- | --- | --- |
 | [Drift](https://github.com/WariKoda/drift) | TUI for browsing, comparing, and syncing files over SFTP/SSH and FTP | Go |
 | [GoSipTea client](https://github.com/nibra180/gosiptea-client) | SIP softphone for the Linux desktop with contacts, call history, and audio settings | Rust · GPUI |
-| [CampAlong](https://campalong.de/) | Multi-day trip and stage planner for bikepacking, hiking, and road trips | Flutter · Dart · PostGIS |
+| [CampAlong](https://campalong.de/) | Multi-day trip and stage planner for bikepacking, hiking, and road trips | Kotlin · Android |
 
 The open-source projects are developed together with [@bdgraue](https://github.com/bdgraue) under [@WariKoda](https://github.com/WariKoda) — open source built with care, clarity, and attention to detail.
